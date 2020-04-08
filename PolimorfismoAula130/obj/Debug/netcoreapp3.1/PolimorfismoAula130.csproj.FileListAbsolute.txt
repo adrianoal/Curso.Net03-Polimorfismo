@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\PolimorfismoAula130\PolimorfismoAula130\bin\Debug\netcoreapp3.1\PolimorfismoAula130.exe
+C:\Users\aalima5\Desktop\Code C#\PolimorfismoAula130\PolimorfismoAula130\bin\Debug\netcoreapp3.1\PolimorfismoAula130.deps.json
+C:\Users\aalima5\Desktop\Code C#\PolimorfismoAula130\PolimorfismoAula130\bin\Debug\netcoreapp3.1\PolimorfismoAula130.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\PolimorfismoAula130\PolimorfismoAula130\bin\Debug\netcoreapp3.1\PolimorfismoAula130.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\PolimorfismoAula130\PolimorfismoAula130\bin\Debug\netcoreapp3.1\PolimorfismoAula130.dll
+C:\Users\aalima5\Desktop\Code C#\PolimorfismoAula130\PolimorfismoAula130\bin\Debug\netcoreapp3.1\PolimorfismoAula130.pdb
+C:\Users\aalima5\Desktop\Code C#\PolimorfismoAula130\PolimorfismoAula130\obj\Debug\netcoreapp3.1\PolimorfismoAula130.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\PolimorfismoAula130\PolimorfismoAula130\obj\Debug\netcoreapp3.1\PolimorfismoAula130.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\PolimorfismoAula130\PolimorfismoAula130\obj\Debug\netcoreapp3.1\PolimorfismoAula130.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\PolimorfismoAula130\PolimorfismoAula130\obj\Debug\netcoreapp3.1\PolimorfismoAula130.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\PolimorfismoAula130\PolimorfismoAula130\obj\Debug\netcoreapp3.1\PolimorfismoAula130.dll
+C:\Users\aalima5\Desktop\Code C#\PolimorfismoAula130\PolimorfismoAula130\obj\Debug\netcoreapp3.1\PolimorfismoAula130.pdb
+C:\Users\aalima5\Desktop\Code C#\PolimorfismoAula130\PolimorfismoAula130\obj\Debug\netcoreapp3.1\PolimorfismoAula130.genruntimeconfig.cache
