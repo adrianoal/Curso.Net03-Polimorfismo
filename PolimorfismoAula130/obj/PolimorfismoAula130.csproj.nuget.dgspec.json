@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aalima5\\Desktop\\Code C#\\PolimorfismoAula130\\PolimorfismoAula130\\PolimorfismoAula130.csproj": {}
+    "C:\\Users\\aalima5\\Desktop\\Code C#\\Curso.Net03-Polimorfismo\\PolimorfismoAula130\\PolimorfismoAula130.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aalima5\\Desktop\\Code C#\\PolimorfismoAula130\\PolimorfismoAula130\\PolimorfismoAula130.csproj": {
+    "C:\\Users\\aalima5\\Desktop\\Code C#\\Curso.Net03-Polimorfismo\\PolimorfismoAula130\\PolimorfismoAula130.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aalima5\\Desktop\\Code C#\\PolimorfismoAula130\\PolimorfismoAula130\\PolimorfismoAula130.csproj",
+        "projectUniqueName": "C:\\Users\\aalima5\\Desktop\\Code C#\\Curso.Net03-Polimorfismo\\PolimorfismoAula130\\PolimorfismoAula130.csproj",
         "projectName": "PolimorfismoAula130",
-        "projectPath": "C:\\Users\\aalima5\\Desktop\\Code C#\\PolimorfismoAula130\\PolimorfismoAula130\\PolimorfismoAula130.csproj",
+        "projectPath": "C:\\Users\\aalima5\\Desktop\\Code C#\\Curso.Net03-Polimorfismo\\PolimorfismoAula130\\PolimorfismoAula130.csproj",
         "packagesPath": "C:\\Users\\aalima5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aalima5\\Desktop\\Code C#\\PolimorfismoAula130\\PolimorfismoAula130\\obj\\",
+        "outputPath": "C:\\Users\\aalima5\\Desktop\\Code C#\\Curso.Net03-Polimorfismo\\PolimorfismoAula130\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aalima5\\AppData\\Roaming\\NuGet\\NuGet.Config",

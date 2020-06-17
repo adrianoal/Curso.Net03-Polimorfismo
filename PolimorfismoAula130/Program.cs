@@ -32,6 +32,8 @@ namespace PolimorfismoAula130
                 {
                     Console.WriteLine("Additional charge: ");
                     double additionalCharge = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+
                     list.Add(new OutsoursedEmployee(name, hours, valuePerHour, additionalCharge));
 
                 }
@@ -44,11 +46,12 @@ namespace PolimorfismoAula130
             Console.WriteLine("PAYMENTS:");
             Console.WriteLine();
 
+            // Percorrendo a lista:
             foreach (Employee emp in list)
             {
                 Console.WriteLine(emp.Name + " - " + emp.Payment().ToString("F2", CultureInfo.InvariantCulture));
             }
-            
+
 
         }
     }
